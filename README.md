@@ -1,23 +1,25 @@
-# project-android-template
+# Description
+Create your first banking application in Android Studio, so that you will get a basic understanding of how the development process takes with Kotlin programming language.
 
 
+Stage 1
+Create a layout - screens
 
-- Next
-  - Read
-      - [Defining projects](documents/outdated/DefiningProject.md)
-      - [Defining stages](documents/outdated/DefiningStages.md)
+Before customers could use the app on phones, we need to create a basic layout.
 
-## Important
+Learn how to create a layout with interactable buttons with pages for a mobile app.
 
-Your project will be reviewed in many different stages of the project creation. The author should
-be available for receiving e-mail messages and also for receiving open-issues on github.
+Stage 2
+Navigation
 
-If a issue is opened on github the author should acknowledge having read the issue by responding to it
-with some comment.
-The acknowledgement comment may also be used to 'make questions/make comments' about the issue.
-A comment indicating a possible solution for the issue before actually fixing the issue is welcomed.
-After making the commit fixing the issue, make a comment to indicate that the issue is fixed, 
-but don't close the issue yourself, let the staff member close it if he really think the issue is solved.
+To be able to see different screens, we need to create navigation and connect layouts with buttons.
 
-It is also a good practice to open issues yourself for problems you identify. 
-If you are having problem solving an issue by yourself try asking for help from staff members.
+Stage 3
+Funds transfer
+
+We need do transfer money to app account and from account.
+
+Stage 4
+Conversion rates
+
+Show conversion rates for different currencies.
